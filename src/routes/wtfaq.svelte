@@ -50,7 +50,7 @@
 
 	<h3>Sure but like, does it work?</h3>
 
-	<img width="100%" src="flactorio-working.gif" alt="animated gif of blaseball replay">
+	<img width="100%" src="flactorio-working-2.gif" alt="animated gif of blaseball replay">
 	<p>You be the judge.</p>
 
 	<hr />
