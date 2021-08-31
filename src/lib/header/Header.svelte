@@ -20,9 +20,6 @@
 			<NavLink sveltekit:prefetch href="/wtfaq" active={$page.path === "/wtfaq"}>WTFaq</NavLink>
 		</NavItem>
 		<NavItem>
-			<NavLink sveltekit:prefetch href="/about" active={$page.path === "/about"}>About</NavLink>
-		</NavItem>
-		<NavItem>
 			<NavLink sveltekit:prefetch href="/secret" active={$page.path === "/secret"}>Util</NavLink>
 		</NavItem>
 	</Nav>

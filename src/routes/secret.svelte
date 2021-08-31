@@ -17,6 +17,8 @@
 	<title>Secret</title>
 </svelte:head>
 
+<p>This utility deserializes a factorio blueprint to its json representation. Left here in case it is as useful to anyone else as it was to me during debugging.</p>
+
 <section>
 	<textarea bind:value={incomingBlueprint} on:change={evaluateBlueprint}></textarea>
 </section>
