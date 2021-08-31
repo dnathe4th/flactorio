@@ -19,7 +19,7 @@
 <script lang="ts">
 	export let currentSeasonNumber;
 
-	import FlactorioGen from '$lib/flactorioGen.svelte';
+	import FlactorioGen from '$lib/FlactorioGen.svelte';
 
 	let seasonSelected = currentSeasonNumber;
 	let daySelected;
