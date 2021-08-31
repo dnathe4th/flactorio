@@ -37,7 +37,7 @@
 
 	<h3>What</h3>
 
-	<img width="100%" src="layout.png" alt="blaseball base layout">
+	<img width="100%" src="/layout.png" alt="blaseball base layout">
 	<p>Here's a visual layout of a game, very zoomed out. It has the following components:</p>
 	<ol>
 		<li>Storage for all text updates of the game, left section for individual letter rendering, middle section for word rendering, right section to sentence rendering.</li>
@@ -50,14 +50,14 @@
 
 	<h3>Sure but like, does it work?</h3>
 
-	<img width="100%" src="flactorio-working-2.gif" alt="animated gif of blaseball replay">
+	<img width="100%" src="/flactorio-working-2.gif" alt="animated gif of blaseball replay">
 	<p>You be the judge.</p>
 
 	<hr />
 
 	<h3><a href="https://www.blaseball.wiki/w/Season_9/Crowvertime">Crowvertime</a>?</h3>
 
-	<img width="100%" src="crowvertime.png" alt="crowvertime in flactorio">
+	<img width="100%" src="/crowvertime.png" alt="crowvertime in flactorio">
 	<p>Sure why not.</p>
 
 	<hr />
@@ -78,11 +78,11 @@
 
 	<p>The replay does not start on its own, because there is no way to know whether the construction is "done" before hte game loop starts. You need to connect a single red wire at the components between the Game Events block and the Home Team display. Take a look, you want to turn this:</p>
 
-	<img width="100%" src="disconnected.png" alt="how to start the replay">
+	<img width="100%" src="/disconnected.png" alt="how to start the replay">
 
 	<p>into this:</p>
 
-	<img width="100%" src="connected.png" alt="how to start the replay">
+	<img width="100%" src="/connected.png" alt="how to start the replay">
 
 	<hr />
 
