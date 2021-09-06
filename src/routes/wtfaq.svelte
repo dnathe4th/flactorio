@@ -86,6 +86,12 @@
 
 	<hr />
 
+	<h3>Where can I read more?</h3>
+
+	<p>I wrote a lil <a href="https://twitter.com/dnathe4th/status/1432763925398003720">tweet thread</a> about the development process. Enjoy.</p>
+
+	<hr />
+
 	<h3>What's next?</h3>
 
 	<p>Probably bug fixing, or sleep. It took a lot longer than I thought.
